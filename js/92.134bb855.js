@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkfirebaseaut"]=globalThis["webpackChunkfirebaseaut"]||[]).push([[92],{3831:(e,a,r)=>{r.r(a),r.d(a,{default:()=>t});var l=r(9835);function u(e,a){return(0,l.wg)(),(0,l.iD)("div",null,"hello world")}var i=r(1639);const n={},s=(0,i.Z)(n,[["render",u]]),t=s}}]);
